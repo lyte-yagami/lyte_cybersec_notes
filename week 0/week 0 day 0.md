@@ -7,4 +7,7 @@
 - install obsidian : notetaking , sharing notes and resources 
 -
 **lets learn some fundamentals now** 
-
+	https://missing.csail.mit.edu/
+	video resources 
+	lecture 1 : Course Overview + Introduction to Shell
+	
