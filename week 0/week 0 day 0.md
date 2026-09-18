@@ -10,4 +10,4 @@
 	https://missing.csail.mit.edu/
 	video resources 
 	lecture 1 : Course Overview + Introduction to Shell
-	
+
